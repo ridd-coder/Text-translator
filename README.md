@@ -1,8 +1,6 @@
 # Text Translator
 
-
 A React.js and Tailwind CSS application that translates English text into different languages using RapidAPI.
-
 
 ## Features
 
@@ -12,7 +10,6 @@ A React.js and Tailwind CSS application that translates English text into differ
 - Clean and responsive UI
 - API integration using RapidAPI
 
-
 ## Technologies Used
 
 - React.js
@@ -20,19 +17,16 @@ A React.js and Tailwind CSS application that translates English text into differ
 - JavaScript
 - RapidAPI
 
-
 ## Screenshot
 
-![Text Translator App] <img width="1470" height="956" alt="Screenshot 2026-06-21 at 11 14 26 AM" src="https://github.com/user-attachments/assets/7c18f23c-1ab9-4448-a5b6-37722d6f4fe4" />
-
-
+<img width="1470" alt="Text Translator App" src="https://github.com/user-attachments/assets/7c18f23c-1ab9-4448-a5b6-37722d6f4fe4" />
 
 ## Installation
 
 ```bash
 npm install
 npm run dev
-
+```
 
 ## Author
 
